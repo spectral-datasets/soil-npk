@@ -11,13 +11,13 @@ wet-chemical analysis, related to the full spectra.
 
 ## Downloads
 
-* [2024.5.24](https://github.com/spectral-datasets/soil-npk/releases/tag/v2024.5.24)
+* [2024.5.24 (v1)](https://github.com/spectral-datasets/soil-npk/releases/tag/v2024.5.24-v1)
 
-  * [all.zip](https://github.com/spectral-datasets/soil-npk/releases/download/v2024.5.24/all.zip)
+  * [all.zip](https://github.com/spectral-datasets/soil-npk/releases/download/v2024.5.24-v1/all.zip)
  
-* [raw](https://github.com/spectral-datasets/soil-npk/releases/tag/raw)
+* [raw (v1)](https://github.com/spectral-datasets/soil-npk/releases/tag/raw-v1)
 
-  * [ny6ks93bnp-1.zip](https://github.com/spectral-datasets/soil-npk/releases/download/raw/ny6ks93bnp-1.zip) 
+  * [ny6ks93bnp-1.zip](https://github.com/spectral-datasets/soil-npk/releases/download/raw-v1/ny6ks93bnp-1.zip) 
 
 
 ## Citation
